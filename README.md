@@ -11,9 +11,9 @@
 <br />
 
 
-**I am Into**
+**I am Into AI, Quantum Computing, Carbon Capture and Credits**
 
-**AI Engineer**
+**Senior AI Engineer at Thumb Technologies**
 
 Here is a bit about my interests and how to get in touch:
 
