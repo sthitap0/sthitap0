@@ -11,13 +11,13 @@
 <br />
 
 
-**I am Into AI, Quantum Computing, Carbon Capture and Credits**
+**I am Into AI in Healthcare, Carbon Capture **
 
-**Senior AI Engineer**
+**CTO, Hana**
 
 Here is a bit about my interests and how to get in touch:
 
-- 💬 I am interested in Reinforcement Learning, Code Generation, AutoGPT and LangChain.
+- 💬 I am interested in Reinforcement Learning, Code Generation, Planning LLMs.
 - 🌱 I’m currently working on NLP, Speech and LLMs.
 - 💬 Ask me about NLP, Deep Neural Networks, and let's Collaborate to knock new ideas to code.
 - 📫 How to reach me: pujari.sthita@gmail.com
