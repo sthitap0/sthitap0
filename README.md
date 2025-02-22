@@ -22,6 +22,4 @@ Here is a bit about my interests and how to get in touch:
 - 💬 Ask me about NLP, Deep Neural Networks, and let's Collaborate to knock new ideas to code.
 - 📫 How to reach me: pujari.sthita@gmail.com
 
-![Sthita Github Stats](https://github-readme-stats.vercel.app/api?username=sthitap0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 <br />
