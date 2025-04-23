@@ -11,7 +11,7 @@
 <br />
 
 
-**I am Into AI in Healthcare, Carbon Capture **
+** I am into AI in Healthcare **
 
 **CTO, Hana**
 
