@@ -11,7 +11,7 @@
 <br />
 
 
-** I am into AI in Healthcare **
+**I am into AI in Healthcare**
 
 **CTO, Hana**
 
